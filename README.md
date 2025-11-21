@@ -1,5 +1,7 @@
 # Discord Mermaid Bot
 
+[日本語はこちら 🇯🇵](./README.ja.md)
+
 A Discord bot that automatically renders Mermaid diagrams from code blocks and replies with images.  
 It uses Puppeteer to generate SVG diagrams rendered by Mermaid.js and captures them as PNG screenshots.
 
